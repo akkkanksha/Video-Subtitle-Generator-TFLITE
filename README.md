@@ -4,6 +4,6 @@
 <ul>
 <li> Harshvarshan Bhosale </li>
 <li> Nishant Chaudhary </li>
-<li> Mohana Shravya </li>
+<li> Mohana Sravya </li>
 <li> Akanksha </li>
 </ul>
